@@ -1,9 +1,9 @@
 # a-simple-practice-gogogo
 一个简单的小练习，关于练习使用github进行协作开发的
 
-- 
-
 - 2720512973@qq.com
+
+- 
 - 
 - 
 - 
